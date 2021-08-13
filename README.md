@@ -32,7 +32,7 @@ A listagem dos mantimentos contará com sua linha de exibição sublinhada de ve
 <li>X.PagedList.Mvc.Core</li>
 </ul>
 
-<h3>Pontos a serem melhoradas:</h3>
+<h3>Pontos a serem melhorados:</h3>
 <ol>
 <li>implementação dos Services.</li>
 <li>Implementação de tratamento de erros.</li>
